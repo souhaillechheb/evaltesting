@@ -5,11 +5,7 @@ const data =require("./data.json")
 
 
 describe("FilmDB API", () => {
-    // beforeEach(() => {
-    //     // Nettoyer les données avant chaque test
-    //     fs.writeFileSync("./data.json", "[]");
-    //   });
-
+     
   it("should fetch all films", async () => {
     const res = await request(app).get("/api/films");
     expect(res.status).toBe(200);
