@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Film ajout",
+    "year": 14000,
+    "genre": "DRAMA mama",
+    "director": "ABDELGHAFFAR",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film 2",
+    "year": 14000,
+    "genre": "hhhhh mamabbbbbb",
+    "director": "jjjj",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film ajout",
+    "year": 14000,
+    "genre": "DRAMA mama",
+    "director": "ABDELGHAFFAR",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film 2",
+    "year": 14000,
+    "genre": "hhhhh mamabbbbbb",
+    "director": "jjjj",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film ajout",
+    "year": 14000,
+    "genre": "DRAMA mama",
+    "director": "ABDELGHAFFAR",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film 2",
+    "year": 14000,
+    "genre": "hhhhh mamabbbbbb",
+    "director": "jjjj",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film ajout",
+    "year": 2022,
+    "genre": "Action",
+    "director": "Director 1",
+    "actors": "Actor 1, Actor 2",
+    "synopsis": "Synopsis 1",
+    "location": "/path/to/video/file1.mp4",
+    "thumbnail": "/path/to/thumbnail1.jpg"
+  },
+  {
+    "title": "Film 2",
+    "year": 14000,
+    "genre": "hhhhh mamabbbbbb",
+    "director": "jjjj",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film ajout",
+    "year": 2022,
+    "genre": "Action",
+    "director": "Director 1",
+    "actors": "Actor 1, Actor 2",
+    "synopsis": "Synopsis 1",
+    "location": "/path/to/video/file1.mp4",
+    "thumbnail": "/path/to/thumbnail1.jpg"
+  },
+  {
+    "title": "Film 2",
+    "year": 14000,
+    "genre": "hhhhh mamabbbbbb",
+    "director": "jjjj",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film ajout",
+    "year": 2022,
+    "genre": "Action",
+    "director": "Director 1",
+    "actors": "Actor 1, Actor 2",
+    "synopsis": "Synopsis 1",
+    "location": "/path/to/video/file1.mp4",
+    "thumbnail": "/path/to/thumbnail1.jpg"
+  },
+  {
+    "title": "Film 2",
+    "year": 14000,
+    "genre": "hhhhh mamabbbbbb",
+    "director": "jjjj",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  },
+  {
+    "title": "Film ajout",
+    "year": 14000,
+    "genre": "DRAMA mama",
+    "director": "ABDELGHAFFAR",
+    "actors": [
+      "DRISS",
+      "SOUHAIL"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  }
+]
